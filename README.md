@@ -1,4 +1,4 @@
 # Joy-Caption-alpha-twogui-mod
 
-A pinokio script for https://github.com/Arnold2006/joy-caption-alpha-two-gui-mod.git
+A pinokio script for https://huggingface.co/Ole1/Joy_Caption_Batch-GUI
 
